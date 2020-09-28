@@ -1,0 +1,62 @@
+body {
+  margin: 0px;
+}
+.container {
+  background: #D7E7F4;
+  height: 100%;
+}
+.content {
+  background: #FFFFFF;
+  margin-left: 10%;
+  margin-right: 10%;
+  height: 100%;
+}
+.header {
+  display: flex;
+  margin-left: 22px;
+  margin-right: 22px;
+}
+.top-left {
+  margin-left: 22px;
+}
+.top-right {
+  margin-left: auto;
+  margin-right: 22px;
+}
+.top-right .login {
+  padding-top: 10px;
+  padding-bottom: 8px;
+  text-align: right;
+  color: #007BAF;
+  font-weight: 600;
+}
+.btn{
+    margin-left: 12px;
+    padding: 0px;
+    border: none;
+}
+.search{
+    display: inline-block;
+    size: 13.3333px;
+    width: 100%;
+    padding: 0px;
+    border: none;
+}
+.input{
+    float: left;
+}
+.button{
+    float: right;
+}
+input {
+  padding: 4px;
+  border: 1px solid #eee;
+}
+.login_link{
+    text-decoration: underline;
+}
+hr{
+    height:2px;
+    background: #000;
+    margin-top: 200px;
+}
